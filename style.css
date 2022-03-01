@@ -1,0 +1,385 @@
+.navs li:first-child {
+  margin-left: 400px;
+  
+}
+
+.buttons {
+  border-radius : 20px;
+}
+
+.navs li:nth-child(5) a button:hover {
+  border: 2px double red;
+}
+
+.navbar navbar-expand-lg navbar-light {
+  margin-top: 30px;
+}
+
+.row1 {
+  margin-top: 100px;
+}
+.row1_l h1 {
+  font-weight: 1000;
+  margin-bottom: 30px; 
+}
+
+.container1 {
+  margin-left: 50px;
+  margin-right: 20px;
+}
+
+.row1_l p {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.P2 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row2 {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.row2_l img{
+  width: 100%;
+  height: 100%;
+}
+
+.P3 {
+  font-weight: bolder;
+  font-size: 24px;
+}
+
+
+.row2_r p:nth-child(1){
+  margin-top: 50px;
+  
+}
+
+.row2_r p{
+  font-size: 20px;
+  
+}
+
+.IMG1 {
+  width: 100%;
+  height: 75%;
+}
+
+.row3_l {
+  margin-top: 30px;
+}
+
+.P5 {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.IMG2 {
+  width: 100%;
+  height: 75%;
+}
+
+.row3_r {
+  margin-top: 30px;
+}
+
+.P6 {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.P7 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row4 {
+  margin-top: 100px; 
+}
+
+.row4_r ul li {
+  text-decoration: underline;
+}
+
+.row4_r ul li:hover{
+  color: rgb(227, 29, 11);
+  text-decoration: none;
+
+}
+
+.row5 {
+  margin-top: 50px;
+}
+
+.P8 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.IMG3 {
+  width: 500px;
+  height: 500;
+}
+
+.row5 {
+  margin-top: 130px;
+}
+
+.P9 {
+  margin-bottom: 30px;
+}
+
+.row5_r {
+  margin-top: 50px;
+}
+
+.row6 {
+  margin-top: 100px;
+}
+
+.P10 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row6_r img {
+  width: 500px;
+  height: 322px;
+  margin-left: 20px;
+  margin-top: 100px
+}
+
+.row7_l {
+  margin-top: 200px;
+}
+
+.row7_r img {
+  background-color: #3d3e44;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 7rem;
+  width: 300px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.IMG4 {
+  margin-left: 30px;
+}
+
+.IMG5 {
+  margin-left: 30px;
+}
+
+.IMG6 {
+  margin-left: 30px;
+}
+
+.row7_r {
+  margin-top: 180px;
+}
+
+.P12 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row8_l {
+  margin-top: 100px;
+}
+
+.IMG7 {
+  height: auto;
+  max-width: 100%;
+  margin-left: 100px;
+}
+
+.row8_r {
+  margin-top: 120px;
+}
+
+.P13 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row9 {
+  margin-top: 100px;
+  background-color: rgb(41, 41, 39);
+  color: white;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.IMG8 {
+  border-radius: 3.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+
+.row9_l {
+  margin-top: 20px;
+}
+
+.p {
+  margin: 0;
+}
+
+.P14 {
+  margin: 0;
+  margin-top: 20px;
+}
+
+.row10_l {
+  margin-top: 100px;
+}
+
+.P15 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row10_r img {
+  height: auto;
+  max-width: 100%;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.P17 {
+  font-weight: bold;
+}
+
+.row11_l {
+  margin-top: 20px;
+}
+
+.P16 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.row11_c {
+  margin-top: 20px;
+}
+
+.row11_r {
+  margin-top: 20px;
+}
+
+.row11_l_Pt2 {
+  margin-top: 40px;
+}
+
+.row11_c_Pt2 {
+  margin-top: 60px;
+}
+
+.row11_r_Pt2 {
+  margin-top: 60px;
+}
+
+.row12 {
+  background-color: rgb(105, 49, 224);
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.P18 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.B1 {
+  border-radius: 20px;
+  color: rgb(105, 49, 224);
+  font-size: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 200px;
+}
+
+.row13_l img {
+  height: auto;
+  width: 250px;
+  margin-top: 40px;
+}
+
+.row12 {
+  margin-top: 50px;
+}
+
+.P19 {
+  margin-top: 150px;
+  font-weight: 700;
+}
+
+.P20 {
+  font-weight: 700;
+}
+
+.row11 {
+  margin-top: 100px;
+}
+
+.rowinsiderow {
+  margin-top: 40px;
+}
+
+.P21 {
+  text-decoration: underline;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.P21:hover {
+  color: rgb(227, 29, 11);
+  text-decoration: none;
+}
+
+.P22 {
+  text-decoration: underline;
+  font-weight: 700;
+  color: rgb(227, 29, 11);
+  font-size: 17px;
+}
+
+.P22:hover {
+  text-decoration: none;
+  color: rgb(255, 0, 0)
+}
+
+.P23 {
+  text-decoration: underline;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.P23:hover {
+  color: rgb(227, 29, 11);
+  text-decoration: none;
+}
+
+.P24 {
+  text-decoration: underline;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.P24:hover {
+  color: rgb(227, 29, 11);
+  text-decoration: none;
+}
+
+.P25 {
+  font-weight: 700;
+  text-decoration: underline;
+  display: inline-block;
+}
